@@ -1,0 +1,1 @@
+Las marcas deben contener un borde blanco alrededor para poder ser reconocidas.
